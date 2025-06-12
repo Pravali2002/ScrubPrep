@@ -16,7 +16,7 @@ LLM: Groq API / HuggingFace Transformers
 RAG: LangChain + FAISS for semantic search
 Vector Database: Pinecone for efficient semantic search and scalable vector indexing
 Data: Custom-ingested medical textbooks (PDFs → chunks)
-Frontend: Streamlit (quick UI for chat)
+Frontend: quick UI for chat
 Backend: FastAPI (modular and scalable)
 
 🧪 How I Evaluated It
